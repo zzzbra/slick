@@ -5,7 +5,7 @@
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/slick.git"
+    "url": "https://github.com/zzzbra/slick"
   },
   "keywords": [
     "carousel",
@@ -14,7 +14,7 @@
     "js",
     "slider"
   ],
-  "author": "Ken Wheeler <ken_wheeler@me.com>",
+  "author": "Zach Brady <zacbra@gmail.com>",
   "contributors": [
     {
       "name": "ken wheeler",
